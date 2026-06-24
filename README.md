@@ -7,7 +7,7 @@ This repository contains my public PGP key. It is used for file encryption and v
 
 **Before importing the key, make sure the fingerprint matches.** This ensures you are using the authentic key.
 
-Fingerprint: `F8D7 98CE 0285 8682 B383 E32C AB9A E9B8 F566 F71E`
+Fingerprint: `096513170B0F9015FA41011A526BEBDC42A10D9A`
 
 ## How to Import the Key
 ### Using Command Line (GnuPG)
